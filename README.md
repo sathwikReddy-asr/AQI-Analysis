@@ -1,10 +1,10 @@
-🌍 AQI Analysis Dashboard (Excel)
-📊 Project Overview
+##🌍 AQI Analysis Dashboard (Excel)
+📊 Project Overview##
 
 This project focuses on analyzing Air Quality Index (AQI) data across multiple countries to understand trends, identify pollution levels, and classify air quality status.
 The dashboard was created entirely in Microsoft Excel using Power Query, Pivot Tables, and Charts.
 
-🎯 Objectives
+##🎯 Objectives##
 
 Analyzed the average and maximum AQI values.
 
@@ -16,7 +16,7 @@ Classified air quality into Good, Moderate, Unhealthy, and Hazardous statuses.
 
 Enable dynamic data exploration using slicers and filters.
 
-🧩 Tools & Techniques Used
+##🧩 Tools & Techniques Used##
 
 Microsoft Excel
 
@@ -28,9 +28,9 @@ Slicers (for interactivity)
 
 Conditional Formatting
 
-Data Source: Public AQI dataset (Kaggle)
+##Data Source: Public AQI dataset (Kaggle)
 
-📈 Dashboard Highlights
+📈 Dashboard Highlights##
 
 Average AQI: 62.34
 
@@ -44,11 +44,11 @@ Day & Quarter vs AQI: Bar and diamond charts showing temporal patterns
 
 Interactive Filters: Country, Status, Month, Quarter, Day, and Year
 
-📅 Time Period Covered
+##📅 Time Period Covered##
 
 Data analyzed for the years 2022 – 2025, covering multiple months and days to capture detailed seasonal and yearly trends.
 
-🔍 Insights Gained
+##🔍 Insights Gained##
 
 Countries like Bangladesh and India show consistently high AQI levels.
 
