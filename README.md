@@ -1,5 +1,6 @@
-**🌍 AQI Analysis Dashboard (Excel)
-📊 Project Overview**
+**🌍 AQI Analysis Dashboard (Excel)**
+
+**📊 Project Overview**
 
 This project focuses on analyzing Air Quality Index (AQI) data across multiple countries to understand trends, identify pollution levels, and classify air quality status.
 The dashboard was created entirely in Microsoft Excel using Power Query, Pivot Tables, and Charts.
@@ -28,8 +29,9 @@ Slicers (for interactivity)
 
 Conditional Formatting
 
-**Data Source: Public AQI dataset (Kaggle)
-📈 Dashboard Highlights**
+**Data Source: Public AQI dataset (Kaggle)**
+
+**📈 Dashboard Highlights**
 
 Average AQI: 62.34
 
